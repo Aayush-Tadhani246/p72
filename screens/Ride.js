@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import {
   View,
   StyleSheet,
-  TextInput,
+  TextInput, 
   TouchableOpacity,
   Text,
   ImageBackground,
