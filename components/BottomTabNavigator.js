@@ -7,7 +7,7 @@ import Ionicons from "react-native-vector-icons/Ionicons";
 import RideScreen from "../screens/Ride";
 import RideHistoryScreen from "../screens/RideHistory";
 
-const Tab = createBottomTabNavigator();
+const Tab = createBottomTabNavigator(); 
 
 export default class BottomTabNavigator extends Component {
   render() {
