@@ -3,7 +3,7 @@ require("@firebase/firestore");
 
 var firebaseConfig = {
   apiKey: "AIzaSyCZrG0BF6LrnRpWZjsPQxNGyMCLByo8HrM",
-  authDomain: "e-ride-549e4.firebaseapp.com",
+  authDomain: "e-ride-549e4.firebaseapp.com", 
   projectId: "e-ride-549e4",
   storageBucket: "e-ride-549e4.appspot.com",
   messagingSenderId: "588298110700",
